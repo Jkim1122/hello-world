@@ -1,1 +1,1 @@
-print("Lil Wayne, Kanye, J Cole, Biggie")
+print("Lil Wayne, Kanye, J Cole, 2Pac")
